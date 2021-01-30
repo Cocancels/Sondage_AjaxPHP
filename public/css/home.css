@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    text-align: center;
+}
+
+h2{
+    margin-bottom: 50px;
+}
+
+#link{
+    font-size: 25px;
+    margin-top: 75px;
+    padding: 20px;
+    background-color: rgba(20, 214, 20, 0.513);
+    color: black;
+    border-radius: 15px;
+}

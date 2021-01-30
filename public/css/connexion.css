@@ -1,0 +1,43 @@
+body {
+    min-height: 100vh;
+}
+.center {
+   margin: auto;
+   width: 500px;
+   max-width: 90%;
+}
+
+.formulaire {
+    width: 100%;
+    height: 100%;
+    padding: 25px;
+    background-color: rgba(221, 223, 229, 0.5);
+    margin-top: 250px;
+   
+}
+h2 {
+    text-align: center;
+}
+
+.input_control {
+    width: 100%;
+    height: 40px;
+    border-radius: 10px;
+    border: none;
+    margin: 10px 0 10px 0;
+    padding-left: 10px;
+}
+
+.send {
+    position: relative;
+    background-color: white;
+    text-decoration: none;
+    border: none;
+    border-radius: 50px;
+    padding: 10px 10px 10px 10px;
+
+}
+.send:hover {
+    background-color: rgba(69, 190, 246, 0.459);
+}
+

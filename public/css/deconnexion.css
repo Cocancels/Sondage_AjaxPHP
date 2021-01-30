@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#deconnexion{
+    text-align: center;
+    margin-top: 300px;
+}
+
+#deconnexion p{
+    font-size: 30px;
+    margin-bottom: 100px;
+
+}
+
+#deconnexion a{
+    color: black;
+    font-size: 30px;
+    padding: 20px;
+    border-radius: 15px;
+
+}
+
+#deconnexion a:hover{
+    background-color: rgb(156, 0, 0);
+    color: white;
+    transition-duration: 0.5s;
+
+}
